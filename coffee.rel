@@ -1,0 +1,6 @@
+{release,
+ {"simple_cache", "0.1.0"},
+ {erts, "8.2"},
+ [{kernel, "5.1.1"},
+  {stdlib, "3.2"},
+  {coffee, "0.1.0"}]}.

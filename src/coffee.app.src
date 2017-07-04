@@ -1,0 +1,16 @@
+{application, coffee,
+ [{description, "Coffee Finit State Machine"},
+  {vsn, "0.1.0"},
+  {registered, []},
+  {mod, { coffee_app, []}},
+  {applications,
+   [kernel,
+    stdlib
+   ]},
+  {env,[]},
+  {modules, []},
+
+  {maintainers, []},
+  {licenses, []},
+  {links, []}
+ ]}.
